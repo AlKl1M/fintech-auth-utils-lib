@@ -11,6 +11,7 @@
 
     <groupId>com.alkl1m</groupId>
     <artifactId>fintech-auth-utils-lib</artifactId>
+    <packaging>pom</packaging>
     <version>0.0.1-SNAPSHOT</version>
     <name>fintech-auth-utils-lib</name>
     <description>fintech-auth-utils-lib</description>
